@@ -8,6 +8,15 @@ namespace CSharpExercise_variables
 {
     class Program
     {
+
+        static void prompt()
+        {
+            Console.WriteLine("Insert your name here: ");
+            string userName = Console.ReadLine();
+            Console.WriteLine("Hello " + userName + "!");
+            Console.ReadKey();
+        }
+
         static void declare()
         {
             int one = 10;
@@ -39,7 +48,8 @@ namespace CSharpExercise_variables
 
         static void Main(string[] args)
         {
-            declare();
+            prompt();
+            //declare();
             //asterick();
             //age();
         }
