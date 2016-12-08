@@ -8,6 +8,16 @@ namespace CSharpExercise_variables
 {
     class Program
     {
+        static void asterick()
+        {
+            Console.WriteLine("*****");
+            Console.WriteLine("*****");
+            Console.WriteLine("*****");
+            Console.WriteLine("*****");
+            Console.WriteLine("*****");
+            Console.ReadKey();
+        }
+
         static void age()
         {
             int age = 20;
@@ -15,9 +25,11 @@ namespace CSharpExercise_variables
             Console.ReadKey();
         }
 
+
         static void Main(string[] args)
         {
-            age();
+            //age();
+            asterick();
         }
 
     }
