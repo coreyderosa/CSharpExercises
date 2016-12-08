@@ -8,11 +8,17 @@ namespace CSharpExercise_variables
 {
     class Program
     {
-        static void Main(string[] args)
+        static void age()
         {
             int age = 20;
             Console.WriteLine("You are {0} years old.", age);
             Console.ReadKey();
         }
+
+        static void Main(string[] args)
+        {
+            age();
+        }
+
     }
 }
