@@ -1,0 +1,6 @@
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercise-variables\CSharpExercise-variables\bin\Debug\CSharpExercise-variables.exe.config
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercise-variables\CSharpExercise-variables\bin\Debug\CSharpExercise-variables.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercise-variables\CSharpExercise-variables\bin\Debug\CSharpExercise-variables.pdb
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercise-variables\CSharpExercise-variables\obj\Debug\CSharpExercise-variables.csprojResolveAssemblyReference.cache
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercise-variables\CSharpExercise-variables\obj\Debug\CSharpExercise-variables.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercise-variables\CSharpExercise-variables\obj\Debug\CSharpExercise-variables.pdb
