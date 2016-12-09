@@ -1,0 +1,6 @@
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-Operators\CSharpExercises-Operators\bin\Debug\CSharpExercises-Operators.exe.config
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-Operators\CSharpExercises-Operators\bin\Debug\CSharpExercises-Operators.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-Operators\CSharpExercises-Operators\bin\Debug\CSharpExercises-Operators.pdb
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-Operators\CSharpExercises-Operators\obj\Debug\CSharpExercises-Operators.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-Operators\CSharpExercises-Operators\obj\Debug\CSharpExercises-Operators.pdb
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-Operators\CSharpExercises-Operators\obj\Debug\CSharpExercises-Operators.csprojResolveAssemblyReference.cache
