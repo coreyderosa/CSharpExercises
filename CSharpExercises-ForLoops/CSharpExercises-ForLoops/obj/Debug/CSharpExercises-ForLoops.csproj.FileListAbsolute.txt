@@ -1,0 +1,5 @@
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-ForLoops\CSharpExercises-ForLoops\bin\Debug\CSharpExercises-ForLoops.exe.config
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-ForLoops\CSharpExercises-ForLoops\bin\Debug\CSharpExercises-ForLoops.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-ForLoops\CSharpExercises-ForLoops\bin\Debug\CSharpExercises-ForLoops.pdb
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-ForLoops\CSharpExercises-ForLoops\obj\Debug\CSharpExercises-ForLoops.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-ForLoops\CSharpExercises-ForLoops\obj\Debug\CSharpExercises-ForLoops.pdb
