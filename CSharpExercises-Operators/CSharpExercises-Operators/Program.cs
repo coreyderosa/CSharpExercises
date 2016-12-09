@@ -8,6 +8,38 @@ namespace CSharpExercises_Operators
 {
     class Program
     {
+        static void operatorPrompt()
+        {
+            int a;
+            int b;
+
+            Console.WriteLine("Please enter a numerical value: ");
+            a = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("The value of a is {0}", a);
+            Console.WriteLine("******************");
+
+            b = ++a;
+            Console.WriteLine("The value of ++a is {0}", b);
+            Console.WriteLine("The value of a is {0}", a);
+
+            b = a++;
+            Console.WriteLine("The value of a++ is {0}", b);
+            Console.WriteLine("The value of a is {0}", a);
+
+            b = --a;
+            Console.WriteLine("The value of --a is {0}", b);
+            Console.WriteLine("The value of a is {0}", a);
+
+            b = a--;
+            Console.WriteLine("The value of a-- is {0}", b);
+            Console.WriteLine("The value of a is {0}", a);
+
+            Console.Read();
+
+        }
+
+
         static void output2()
         {
             int x = 10;
@@ -46,8 +78,11 @@ namespace CSharpExercises_Operators
 
         static void Main(string[] args)
         {
+            operatorPrompt();
+            //output2();
             //output();
-            output2();
+
+
         }
     }
 }
