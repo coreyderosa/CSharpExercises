@@ -47,7 +47,7 @@ namespace CSharpExercises_Operators
 
             Console.WriteLine("x value\t\ty value\t\tExpressions\t\tResult");
 
-            Console.WriteLine("{0,-8}\t{1,-8}\tx+=y\t\t\tx={2,-8}", x, y, x + y);
+            Console.WriteLine("{0}\t{1}\tx+=y\t\t\tx={2}", x, y, x + y);
             Console.WriteLine("{0,-8}\t{1,-8}\tx-=y-2\t\t\tx={2,-8}", x, y, x - y + 2);
             Console.WriteLine("{0,-8}\t{1,-8}\tx*=y*5\t\t\tx={2,-8}", x, y, x * y * 5);
             Console.WriteLine("{0,-8}\t{1,-8}\tx/=x/y\t\t\tx={2,-8}", x, y, (float)x / (x / y));
@@ -78,8 +78,8 @@ namespace CSharpExercises_Operators
 
         static void Main(string[] args)
         {
-            operatorPrompt();
-            //output2();
+            //operatorPrompt();
+            output2();
             //output();
 
 
