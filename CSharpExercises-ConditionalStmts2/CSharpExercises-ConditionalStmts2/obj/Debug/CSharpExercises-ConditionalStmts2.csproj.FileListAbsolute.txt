@@ -1,0 +1,6 @@
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-ConditionalStmts2\CSharpExercises-ConditionalStmts2\bin\Debug\CSharpExercises-ConditionalStmts2.exe.config
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-ConditionalStmts2\CSharpExercises-ConditionalStmts2\bin\Debug\CSharpExercises-ConditionalStmts2.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-ConditionalStmts2\CSharpExercises-ConditionalStmts2\bin\Debug\CSharpExercises-ConditionalStmts2.pdb
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-ConditionalStmts2\CSharpExercises-ConditionalStmts2\obj\Debug\CSharpExercises-ConditionalStmts2.csprojResolveAssemblyReference.cache
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-ConditionalStmts2\CSharpExercises-ConditionalStmts2\obj\Debug\CSharpExercises-ConditionalStmts2.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-ConditionalStmts2\CSharpExercises-ConditionalStmts2\obj\Debug\CSharpExercises-ConditionalStmts2.pdb
