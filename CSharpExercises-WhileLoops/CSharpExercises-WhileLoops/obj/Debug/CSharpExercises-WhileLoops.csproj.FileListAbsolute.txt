@@ -1,0 +1,6 @@
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-WhileLoops\CSharpExercises-WhileLoops\bin\Debug\CSharpExercises-WhileLoops.exe.config
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-WhileLoops\CSharpExercises-WhileLoops\bin\Debug\CSharpExercises-WhileLoops.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-WhileLoops\CSharpExercises-WhileLoops\bin\Debug\CSharpExercises-WhileLoops.pdb
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-WhileLoops\CSharpExercises-WhileLoops\obj\Debug\CSharpExercises-WhileLoops.csprojResolveAssemblyReference.cache
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-WhileLoops\CSharpExercises-WhileLoops\obj\Debug\CSharpExercises-WhileLoops.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-WhileLoops\CSharpExercises-WhileLoops\obj\Debug\CSharpExercises-WhileLoops.pdb
