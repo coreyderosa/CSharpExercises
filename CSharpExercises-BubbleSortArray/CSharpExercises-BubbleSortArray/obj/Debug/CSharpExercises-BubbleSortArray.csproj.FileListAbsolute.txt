@@ -1,0 +1,6 @@
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-BubbleSortArray\CSharpExercises-BubbleSortArray\bin\Debug\CSharpExercises-BubbleSortArray.exe.config
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-BubbleSortArray\CSharpExercises-BubbleSortArray\bin\Debug\CSharpExercises-BubbleSortArray.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-BubbleSortArray\CSharpExercises-BubbleSortArray\bin\Debug\CSharpExercises-BubbleSortArray.pdb
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-BubbleSortArray\CSharpExercises-BubbleSortArray\obj\Debug\CSharpExercises-BubbleSortArray.csprojResolveAssemblyReference.cache
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-BubbleSortArray\CSharpExercises-BubbleSortArray\obj\Debug\CSharpExercises-BubbleSortArray.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-BubbleSortArray\CSharpExercises-BubbleSortArray\obj\Debug\CSharpExercises-BubbleSortArray.pdb
