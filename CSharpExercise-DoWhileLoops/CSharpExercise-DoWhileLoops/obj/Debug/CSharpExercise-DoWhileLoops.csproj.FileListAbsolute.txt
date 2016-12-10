@@ -1,0 +1,6 @@
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercise-DoWhileLoops\CSharpExercise-DoWhileLoops\bin\Debug\CSharpExercise-DoWhileLoops.exe.config
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercise-DoWhileLoops\CSharpExercise-DoWhileLoops\bin\Debug\CSharpExercise-DoWhileLoops.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercise-DoWhileLoops\CSharpExercise-DoWhileLoops\bin\Debug\CSharpExercise-DoWhileLoops.pdb
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercise-DoWhileLoops\CSharpExercise-DoWhileLoops\obj\Debug\CSharpExercise-DoWhileLoops.csprojResolveAssemblyReference.cache
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercise-DoWhileLoops\CSharpExercise-DoWhileLoops\obj\Debug\CSharpExercise-DoWhileLoops.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercise-DoWhileLoops\CSharpExercise-DoWhileLoops\obj\Debug\CSharpExercise-DoWhileLoops.pdb
