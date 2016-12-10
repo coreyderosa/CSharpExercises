@@ -8,7 +8,20 @@ namespace CSharpExercise_DoWhileLoops
 {
     class Program
     {
-        
+        static void exercise2()
+        {
+            int i = 1;
+            do
+            {
+                Console.Write((char)i + "\t");
+                if (i % 10 == 0)
+                    Console.Write("\n");
+                i++;
+            }
+            while (i <= 122);
+
+            Console.Read();
+        }
 
         static void exercise1()
         {
@@ -49,7 +62,8 @@ namespace CSharpExercise_DoWhileLoops
 
         static void Main(string[] args)
         {
-            exercise1();
+            exercise2();
+            //exercise1();
         }
     }
 }
