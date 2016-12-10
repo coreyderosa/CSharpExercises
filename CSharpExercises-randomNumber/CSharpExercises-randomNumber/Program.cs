@@ -32,7 +32,6 @@ namespace CSharpExercises_randomNumber
                 }
             }
             while (reset == "y");
-            
 
         }
 
