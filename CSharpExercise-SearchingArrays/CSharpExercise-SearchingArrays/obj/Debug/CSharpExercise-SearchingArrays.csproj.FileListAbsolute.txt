@@ -1,0 +1,6 @@
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercise-SearchingArrays\CSharpExercise-SearchingArrays\bin\Debug\CSharpExercise-SearchingArrays.exe.config
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercise-SearchingArrays\CSharpExercise-SearchingArrays\bin\Debug\CSharpExercise-SearchingArrays.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercise-SearchingArrays\CSharpExercise-SearchingArrays\bin\Debug\CSharpExercise-SearchingArrays.pdb
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercise-SearchingArrays\CSharpExercise-SearchingArrays\obj\Debug\CSharpExercise-SearchingArrays.csprojResolveAssemblyReference.cache
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercise-SearchingArrays\CSharpExercise-SearchingArrays\obj\Debug\CSharpExercise-SearchingArrays.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercise-SearchingArrays\CSharpExercise-SearchingArrays\obj\Debug\CSharpExercise-SearchingArrays.pdb
