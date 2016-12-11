@@ -1,0 +1,6 @@
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercise-PascalTriangle\CSharpExercise-PascalTriangle\bin\Debug\CSharpExercise-PascalTriangle.exe.config
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercise-PascalTriangle\CSharpExercise-PascalTriangle\bin\Debug\CSharpExercise-PascalTriangle.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercise-PascalTriangle\CSharpExercise-PascalTriangle\bin\Debug\CSharpExercise-PascalTriangle.pdb
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercise-PascalTriangle\CSharpExercise-PascalTriangle\obj\Debug\CSharpExercise-PascalTriangle.csprojResolveAssemblyReference.cache
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercise-PascalTriangle\CSharpExercise-PascalTriangle\obj\Debug\CSharpExercise-PascalTriangle.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercise-PascalTriangle\CSharpExercise-PascalTriangle\obj\Debug\CSharpExercise-PascalTriangle.pdb
