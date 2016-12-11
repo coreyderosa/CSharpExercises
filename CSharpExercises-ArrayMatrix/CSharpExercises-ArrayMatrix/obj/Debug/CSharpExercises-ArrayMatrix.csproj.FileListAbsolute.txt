@@ -1,0 +1,6 @@
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-ArrayMatrix\CSharpExercises-ArrayMatrix\bin\Debug\CSharpExercises-ArrayMatrix.exe.config
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-ArrayMatrix\CSharpExercises-ArrayMatrix\bin\Debug\CSharpExercises-ArrayMatrix.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-ArrayMatrix\CSharpExercises-ArrayMatrix\bin\Debug\CSharpExercises-ArrayMatrix.pdb
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-ArrayMatrix\CSharpExercises-ArrayMatrix\obj\Debug\CSharpExercises-ArrayMatrix.csprojResolveAssemblyReference.cache
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-ArrayMatrix\CSharpExercises-ArrayMatrix\obj\Debug\CSharpExercises-ArrayMatrix.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-ArrayMatrix\CSharpExercises-ArrayMatrix\obj\Debug\CSharpExercises-ArrayMatrix.pdb
