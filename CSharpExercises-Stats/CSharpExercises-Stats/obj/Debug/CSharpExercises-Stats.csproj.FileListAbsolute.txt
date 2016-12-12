@@ -1,0 +1,6 @@
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-Stats\CSharpExercises-Stats\bin\Debug\CSharpExercises-Stats.exe.config
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-Stats\CSharpExercises-Stats\bin\Debug\CSharpExercises-Stats.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-Stats\CSharpExercises-Stats\bin\Debug\CSharpExercises-Stats.pdb
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-Stats\CSharpExercises-Stats\obj\Debug\CSharpExercises-Stats.csprojResolveAssemblyReference.cache
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-Stats\CSharpExercises-Stats\obj\Debug\CSharpExercises-Stats.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-Stats\CSharpExercises-Stats\obj\Debug\CSharpExercises-Stats.pdb
