@@ -1,0 +1,6 @@
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-StudentMgmtSys1\CSharpExercises-StudentMgmtSys1\bin\Debug\CSharpExercises-StudentMgmtSys1.exe.config
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-StudentMgmtSys1\CSharpExercises-StudentMgmtSys1\obj\Debug\CSharpExercises-StudentMgmtSys1.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-StudentMgmtSys1\CSharpExercises-StudentMgmtSys1\obj\Debug\CSharpExercises-StudentMgmtSys1.pdb
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-StudentMgmtSys1\CSharpExercises-StudentMgmtSys1\bin\Debug\CSharpExercises-StudentMgmtSys1.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-StudentMgmtSys1\CSharpExercises-StudentMgmtSys1\bin\Debug\CSharpExercises-StudentMgmtSys1.pdb
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-StudentMgmtSys1\CSharpExercises-StudentMgmtSys1\obj\Debug\CSharpExercises-StudentMgmtSys1.csprojResolveAssemblyReference.cache
