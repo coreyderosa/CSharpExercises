@@ -1,0 +1,6 @@
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-WordGame\CSharpExercises-WordGame\bin\Debug\CSharpExercises-WordGame.exe.config
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-WordGame\CSharpExercises-WordGame\bin\Debug\CSharpExercises-WordGame.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-WordGame\CSharpExercises-WordGame\bin\Debug\CSharpExercises-WordGame.pdb
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-WordGame\CSharpExercises-WordGame\obj\Debug\CSharpExercises-WordGame.csprojResolveAssemblyReference.cache
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-WordGame\CSharpExercises-WordGame\obj\Debug\CSharpExercises-WordGame.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\CSharpExercises\CSharpExercises-WordGame\CSharpExercises-WordGame\obj\Debug\CSharpExercises-WordGame.pdb
